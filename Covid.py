@@ -10,7 +10,7 @@ import json
 
 
 root = Tk()
-root.title("Stocker")
+root.title("Covid-19")
 root.resizable(False, False)
 root.iconbitmap('icon.ico')
 
